@@ -2,7 +2,7 @@
 
 Análise exploratória dos dados abertos de acidentes de trânsito fornecidos pelo **SENATRAN/RENAST**, cobrindo o período de **2018 a 2025**.
 
-![Dashboard Acidentes de Trânsito](dashboard.png)
+![Dashboard Acidentes de Trânsito](https://github.com/leovicyto/Registro-Nacional-de-Sinistros-e-Estat-sticas-de-Tr-nsito-PowerBi-/blob/main/Dashboard1.png)
 
 ## 📊 Visão Geral
 

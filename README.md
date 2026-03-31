@@ -2,6 +2,8 @@
 
 Análise exploratória dos dados abertos de acidentes de trânsito fornecidos pelo **SENATRAN/RENAST**, cobrindo o período de **2018 a 2025**.
 
+![Dashboard Acidentes de Trânsito](screenshots/dashboard.png)
+
 ## 📊 Visão Geral
 
 Este projeto apresenta um relatório interativo desenvolvido em **Power BI**, com foco em identificar padrões, tendências e perfis de vítimas em acidentes de trânsito no Brasil.
@@ -36,14 +38,6 @@ Esquema estrela com `Acidentes` como tabela fato central, conectada às dimensõ
 - Power BI Desktop
 - DAX
 - Dados Abertos Gov.br (SENATRAN)
-
-## 📁 Estrutura do Repositório
-```
-├── /pbix              # Arquivo .pbix do relatório
-├── /data              # Dados brutos em .csv (ou link para fonte)
-├── /screenshots       # Prints das páginas do relatório
-└── README.md
-```
 
 ## 🔗 Fonte dos Dados
 
